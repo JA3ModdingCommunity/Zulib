@@ -2,7 +2,7 @@ return PlaceObj('ModDef', {
 	'title', "Zulib",
 	'id', "0000zulib",
 	'content_path', "Mod/0000zulib/",
-	'author', "Heisenberg",
+	'author', "JA3-Discord",
 	'version', 2,
 	'lua_revision', 233360,
 	'saved_with_revision', 339125,
