@@ -1,7 +1,7 @@
 return PlaceObj('ModDef', {
 	'title', "Zulib",
-	'id', "00000zulib",
-	'content_path', "Mod/00000zulib/",
+	'id', "0000zulib",
+	'content_path', "Mod/0000zulib/",
 	'author', "Heisenberg",
 	'version', 2,
 	'lua_revision', 233360,
